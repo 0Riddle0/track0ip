@@ -18,7 +18,7 @@
 * `apt update`
 * `apt install git curl -y`
 * `git clone git://github.com/0Riddle0/track0ip.git`
-* `cd track_ip`
+* `cd track0ip`
 
 #### > Run : `bash track_ip`
 
