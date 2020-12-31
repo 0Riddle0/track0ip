@@ -22,7 +22,7 @@
 * `apt update`
 * `apt install git curl -y`
 * `git clone git://github.com/0Riddle0/track_ip.git`
-* `cd track-ip`
+* `cd track_ip`
 
 #### > Run : `bash track_ip`
 
@@ -32,11 +32,11 @@ apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track
 ```
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76794680/103407978-5387f380-4b69-11eb-8d82-d21975020178.jpg"/>
+<img src="https://user-images.githubusercontent.com/76794680/103407978-5387f380-4b69-11eb-8d82-d21975020178.jpg)"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-0Riddle0-green?style=for-the-badge&logo=github)](https://github.com/0Riddle0)
-[![Instagram](https://img.shields.io/badge/IG-%40itamohsen-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/itamohsen)
+[![Instagram](https://img.shields.io/badge/Insta-%40itamohsen-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/itamohsen)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/bbrruuxx)
