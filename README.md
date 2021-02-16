@@ -32,5 +32,5 @@ apt update ; apt install git curl -y ; git clone git://github.com/0Riddle0/track
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-0Riddle0-green?style=for-the-badge&logo=github)](https://github.com/0Riddle0)
-[![Instagram](https://img.shields.io/badge/Insta-%40itamohsen-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/itamohsen)
+[![Instagram](https://img.shields.io/badge/Insta-%40_mohsenetoo_-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/_mohsenetoo_)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/bbrruuxx)
